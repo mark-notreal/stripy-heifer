@@ -124,7 +124,7 @@ At this point I have a [working solution](https://github.com/markdstafford/strip
 If time allows, here's where I plan to take this from this point:
 
 - [x] Clean up everything I've written so far
-- [x] Complete [readme.md](readme.md)
+- [x] Complete [readme.md](README.md)
 - [x] Verify that everything works from a clean clone
 - [x] Handle Webhooks
 - [x] Clean up code for submission
