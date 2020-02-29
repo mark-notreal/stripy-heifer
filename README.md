@@ -9,6 +9,8 @@
 
 If you just want to try the running product, check out <https://stripy-heifer-web.herokuapp.com/>. The Web client there is bound to a hosted API (<https://stripy-heifer-api.herokuapp.com/>) connected to my developer account.
 
+The most meaningful feedback (friction log, suggestions for improvement) are captured in [Suggestions for improvement](suggestions-for-improvement.md) and [Progress log](progress-log.md)
+
 ## About Stripy Heifer
 
 Stripy Heifer is a fictional non-profit intended to demonstrate the usage of Stripe payment APIs. Stripy Heifer is a crowdsourced initiative, allowing some users to create donation opportunities in their local currency, and other users to fulfill those donation opportunities.
@@ -19,7 +21,7 @@ The primary artifacts worth reviewing are:
 
 - This [readme](readme.md)
 - The [progress log](progress-log.md)
-- [Suggestions for improvement](suggestions.md)
+- [Suggestions for improvement](suggestions-for-improvement.md)
 - [app.js](api/app.js)
 - [CheckoutForm.js](web/CheckoutForm.js)
 
