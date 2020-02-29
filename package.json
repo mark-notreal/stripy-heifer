@@ -1,0 +1,22 @@
+{
+  "name": "stripy-heifer",
+  "version": "0.0.1",
+  "description": "Mark Stafford's Stripe PM take-home assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"cd api && yarn && yarn start\" \"cd web && yarn && yarn start\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markdstafford/stripe-pmtha.git"
+  },
+  "author": "Mark Stafford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markdstafford/stripe-pmtha/issues"
+  },
+  "homepage": "https://github.com/markdstafford/stripe-pmtha#readme",
+  "dependencies": {
+    "concurrently": "^5.1.0"
+  }
+}
