@@ -19,7 +19,7 @@ Stripy Heifer is a fictional non-profit intended to demonstrate the usage of Str
 
 The primary artifacts worth reviewing are:
 
-- This [readme](readme.md)
+- This [readme](README.md)
 - The [progress log](progress-log.md)
 - [Suggestions for improvement](suggestions-for-improvement.md)
 - [app.js](api/app.js)
